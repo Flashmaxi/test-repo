@@ -784,6 +784,14 @@ footer {
     margin-bottom: 20px;
 }
 
+@media screen and (max-width: 768px) {
+    .noAccess__text {
+        font-size: 16px !important;
+        line-height: 20px !important;
+        margin-bottom: 20px;
+    }
+}
+
 @media screen and (max-width: 1200px) {
     .noAccess__text {
         font-size: 26px;
