@@ -561,6 +561,7 @@ body {
     flex-direction: column;
     margin-top: 10vh;
     padding: 0 45px;
+    margin-bottom: 50px;
  }
 
  @media screen and (max-width: 767px) and (min-width: 0px) {
