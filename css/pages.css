@@ -789,6 +789,9 @@ footer {
         font-size: 16px !important;
         line-height: 20px !important;
         margin-bottom: 20px;
+        text-align: start;
+        padding-left: 14px;
+        padding-right: 14px;
     }
 }
 
