@@ -9,8 +9,8 @@
 }
 
 body {
-    background: #0c0020;
-    color: #c683f6;
+    background: rgb(12, 0, 32);
+    color: rgb(198, 131, 246);
 }
 /* header */
 .nav {
