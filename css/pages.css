@@ -8,6 +8,10 @@
     padding: 0;
 }
 
+.link-color {
+    color: rgb(198, 131, 246) !important;
+}
+
 body {
     font-family: 'Nunito Sans', sans-serif;
     background: rgb(12, 0, 32);
@@ -396,7 +400,7 @@ body {
 @media screen and (max-width: 768px) {
     .header__image {
         height: 385px;
-        width: 100%;
+        width: 100% !important;
         display: flex;
         position: static;
         flex-direction: column;
