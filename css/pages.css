@@ -339,7 +339,7 @@ body {
 }
 
 .header__subtitle {
-    color: #0b0a0b;
+    color: rgb(198, 131, 246);
     font-size: 26px;
     font-weight: 700;
     line-height: 40px;
