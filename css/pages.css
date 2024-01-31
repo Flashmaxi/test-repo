@@ -9,6 +9,7 @@
 }
 
 body {
+    font-family: 'Nunito Sans', sans-serif;
     background: rgb(12, 0, 32);
     color: rgb(198, 131, 246);
 }
@@ -316,7 +317,7 @@ body {
 
 .header__title {
     color: #f33a3e;
-    font-family: Contrail One,cursive,Arial,sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
     font-size: 92px;
     font-weight: 400;
     letter-spacing: -.02em;
