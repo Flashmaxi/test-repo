@@ -530,7 +530,7 @@ body {
  
  .faq__title {
     color: #ffb52e;
-    font-family: Contrail One,cursive,Arial,sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
     font-size: 4.125rem;
     font-weight: 400;
     letter-spacing: -.02em;
@@ -638,7 +638,7 @@ footer {
 
 .footer__block__title {
     color: #ffb52e;
-    font-family: Contrail One,cursive,Arial,sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
     font-size: 66px;
     font-weight: 400;
     letter-spacing: -.02em;
@@ -796,7 +796,7 @@ footer {
 
 .nostr-week__title {
     color: #ffb52e;
-    font-family: Contrail One,cursive,Arial,sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
     font-size: 66px;
     font-style: normal;
     font-weight: 400;
