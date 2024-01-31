@@ -345,6 +345,12 @@ body {
     line-height: 40px;
 }
 
+.header__image {
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
+
 .header__actions {
     margin-left: 15px;
 }
@@ -368,8 +374,38 @@ body {
 }
 
 @media screen and (max-width: 1440px) {
-    .header, .header__image {
+    .header {
         height: 620px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .header__image {
+        height: 346px;
+        right: -15%;
+        transform: translateX(8%);
+        width: inherit;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .header__image {
+        height: 460px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .header {
+        height: 620px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header__image {
+        height: 385px;
+        right: -5%;
+        transform: translateX(2%);
+        width: inherit;
     }
 }
 
