@@ -677,6 +677,7 @@ footer {
         margin-bottom: 12px;
         order: 2;
         text-align: left;
+        gap: 1rem;
     }
 }
 
@@ -910,7 +911,7 @@ footer {
 
 .time__capsule__blocks {
     display: flex;
-    gap: 50px;
+    gap: 50Ffootpx;
     justify-content: center;
 }
 
