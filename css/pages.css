@@ -910,7 +910,7 @@ footer {
 
 .time__capsule__blocks {
     display: flex;
-    gap: 32px;
+    gap: 50px;
     justify-content: center;
 }
 
@@ -921,8 +921,8 @@ footer {
 }
 
 .time__capsule__blocks__block {
-    max-width: 660px;
-    width: 50%;
+    max-width: 450px;
+    width: 100%;
     overflow: hidden;
 }
 
@@ -936,7 +936,7 @@ footer {
     border: 1px solid #0b0a0b;
     width: 100%;
     border-radius: 1rem;
-    max-width: 600px;
+    max-width: 500px;
     overflow: hidden;
 }
 
